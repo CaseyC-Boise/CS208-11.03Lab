@@ -23,12 +23,12 @@ li {
     width: 250px;
 }
 
-.delete {
+.done-btn {
     margin-left: 10px;
     color: gray;
     cursor: pointer;
 }
 
-.delete:hover {
+.done-btn:hover {
     color: red;
 }
